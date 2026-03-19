@@ -15,3 +15,9 @@ double slant_range(double xs, double ys, double zs,
 /*void satellite_position_eci(double a, double e, double i,
                             double raan, double omega, double nu,
                             double *x, double *y, double *z);  */
+
+
+ /*ground.x = 6378.0;
+    ground.y = 0;
+    ground.z = 0; */
+
