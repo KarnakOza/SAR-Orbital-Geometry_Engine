@@ -21,3 +21,10 @@ double slant_range(double xs, double ys, double zs,
     ground.y = 0;
     ground.z = 0; */
 
+
+//x = 1000;
+    //y = 2000;
+    //z = 700000;
+    //double xg = 6378.0;
+    //double yg = 0.0;
+    //double zg = 0.0;
