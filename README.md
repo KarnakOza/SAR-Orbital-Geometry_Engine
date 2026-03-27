@@ -24,6 +24,9 @@ This geometry engine models the observation physics used in SAR satellites such 
 ------------------
 
 • C language
+
 • Vector math library
+
 • orbital mechanics
+
 • Radar geometry modeling
